@@ -1,0 +1,16 @@
+.FlipClock {
+    text-align: center;
+}
+
+.FlipClock .M-Flipper {
+    margin: 0 3px;
+}
+  
+.FlipClock em {
+    display: inline-block;
+    line-height: 102px;
+    font-size: 66px;
+    font-style: normal;
+    vertical-align: top;
+}
+  
