@@ -344,11 +344,14 @@ function padLeftZero(str) {
     transform-origin: 50% 100%;
     animation: frontFlipDown 0.6s ease-in-out both;
     box-shadow: 0 -2px 6px rgba(255, 255, 255, 0.3);
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
 
 .flip.down.go .back:after {
     animation: backFlipDown 0.6s ease-in-out both;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 /*向上翻*/
@@ -371,11 +374,14 @@ function padLeftZero(str) {
     transform-origin: 50% 0;
     animation: frontFlipUp 0.6s ease-in-out both;
     box-shadow: 0 2px 6px rgba(255, 255, 255, 0.3);
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
 
 .flip.up.go .back:before {
     animation: backFlipUp 0.6s ease-in-out both;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 @keyframes frontFlipDown {
