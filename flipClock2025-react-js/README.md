@@ -1,13 +1,24 @@
 # 2025新春版：干货满满!如何优雅简洁地实现时钟翻牌器(支持JS/Vue/React)
+## React18/19 Javascript版
 
-翻牌效果时钟的演示，包含原生JavaScript、Vue、React三种实现方式。
+> 本项目提供的是组件源码，并不是npm依赖包。适合直接放到实际项目中使用，可根据实际项目需求自行修改。
 
-包含 4 套代码：
+## 使用方法
 
-1. React18/19 (javascript)
-2. React18/19 (typescript)
-3. Vue3 (javascript)
-4. Vue3 (typescript)
+安装依赖包：
+```
+npm install
+```
+
+运行项目：
+```
+npm run dev
+```
+
+build项目：
+```
+npm run build
+```
 
 ## 教程原文
 
