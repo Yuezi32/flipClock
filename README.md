@@ -19,7 +19,7 @@
 
 2025年春季翻新版教程（原理不变，仅更新了React和Vue代码）：
 
-[《2025新春版：干货满满!如何优雅简洁地实现时钟翻牌器(支持JS/Vue/React》](https://mp.weixin.qq.com/s/1xy10ZFPtU0cyVQi-AmRbw)
+[《2025新春版：干货满满!如何优雅简洁地实现时钟翻牌器(支持JS/Vue/React》](https://mp.weixin.qq.com/s/0tgaR6LzainyFsJlkHyK9w)
 
 ## 教程目录
 
