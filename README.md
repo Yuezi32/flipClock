@@ -2,12 +2,13 @@
 
 翻牌效果时钟的演示，包含原生JavaScript、Vue、React三种实现方式。
 
-包含 4 套代码：
+包含 5 套代码：
 
-1. React18/19 (javascript)
-2. React18/19 (typescript)
-3. Vue3 (javascript)
-4. Vue3 (typescript)
+1. 原生Javascript
+2. React18/19 (javascript)
+3. React18/19 (typescript)
+4. Vue3 (javascript)
+5. Vue3 (typescript)
 
 ## 教程原文
 
